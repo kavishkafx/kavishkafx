@@ -10,8 +10,6 @@ for freelance work? do reach, [email](mailto:kawishkamd@gmail.com) :)
     🐱 Cats • Coffee • Rabbit Holes      
 </pre>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kawishkamd) [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@kairoirl?sub_confirmation=1) [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/kawishkamd)
-
 blogs
 <!-- BLOG-POST-LIST:START -->
 - [Intermittent No POST Issue on an ASRock H81 Motherboard](https://zylonic.space/news/asrock-h81-no-post-cpu-contact/)
