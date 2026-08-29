@@ -12,11 +12,7 @@ for freelance work? do reach, [email](mailto:kawishkamd@gmail.com) :)
 
 blogs
 <!-- BLOG-POST-LIST:START -->
-- [Intermittent No POST Issue on an ASRock H81 Motherboard](https://zylonic.space/news/asrock-h81-no-post-cpu-contact/)
-- [TV Time Is Shutting Down: How to Export Your History and Move to Trakt](https://zylonic.space/news/tvtime-shutdown-trakt-import/)
-- [Htb Connected Walkthrough](https://zylonic.space/htb-connected-walkthrough/)
-- [Htb Devhub Walkthrough](https://zylonic.space/htb-devhub-walkthrough/)
-- [How to Stop CapCut From Auto-Updating&lpar;Lock It to the Last Free Version&rpar;](https://zylonic.space/how-to-stop-capcut-from-updating/)
+
 <!-- BLOG-POST-LIST:END -->
 
 keep the servers running ⚡
