@@ -10,7 +10,7 @@ for freelance work? do reach, [email](mailto:kawishkamd@gmail.com) :)
     🐱 Cats • Coffee • Rabbit Holes      
 </pre>
 
-blogs
+<!-- blogs -->
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
